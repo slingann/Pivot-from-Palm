@@ -1,0 +1,245 @@
+/* STYLE TEXT */
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: Poppins, sans-serif;
+}
+/* STYLE IMAGES */
+
+.about{
+  margin-bottom: 3%;
+  margin-left: 11%;
+  margin-right: 11%;
+}
+
+.about img {
+  display: inline;
+  border-radius: 30px;
+  background-image: linear-gradient(126.75deg, #FE8E5C -9.85%, #FCBE37 38.04%, #66CC66 78.46%);
+  box-shadow: none;
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+/*buttons*/
+
+/* footer*/
+footer{
+  text-align: center;
+}
+/* Navigation Bar*/
+
+
+
+.navigation li {
+  display: inline;
+  float: right;
+
+  padding: 8px;  
+
+  background: #FFFFFF;
+  border-radius: 100px;
+
+  position: static;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 20px;
+
+  text-align: center;
+
+  margin: 0px 10px;
+}
+
+.navigation li:hover {
+  background: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.navigation a:hover {
+  color: white;
+}
+
+.navigation ul {
+  position: absolute;
+  width: 1112px;
+  height: 65px;
+  left: 290px;
+  top: 40px;
+}
+
+body {
+  background-image: url("assets/navigation-background.png");
+  background-size: 1550px 1000px;
+  background-repeat: no-repeat;
+}
+
+header {
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+.resource {
+  margin-left: 50px;
+  text-align: center;
+  max-width: 16%;
+  border-radius: 30px;
+  background-image: linear-gradient(126.75deg, #FE8E5C -9.85%, #FCBE37 38.04%, #66CC66 78.46%);
+  box-shadow: none;
+  padding: 30px;
+  float: right;
+  margin-bottom: 3%;
+}
+
+.resource img {
+  max-width: 200px;
+  border-radius: 30px;
+}
+
+.resource h3 {
+  margin-bottom: 6%;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+h3 {
+  font-weight: 500px;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+#padletInfo {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 2%;
+}
+
+.resource p {
+  margin-top: 6%;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+#resources {
+  margin-left: 5%;
+  margin-right: 10%;
+  max-width: 100%;
+}
+
+#learnMoreInfo {
+  font-size: 17px;
+  text-align: left;
+  margin-left: 15%;
+  margin-bottom: 5%;
+  margin-top: 2%;
+  max-width: 55%;
+}
+
+.resource:hover {
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.takeActionInfo {
+  font-size: 17px;
+  text-align: left;
+  margin-left: 15%;
+  margin-bottom: 5%;
+  margin-top: 2%;
+  max-width: 55%;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+#padletEmbed {
+  max-width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+
+#padletEmbed iframe {
+  border-radius: 30px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.video {
+  background-image: linear-gradient(126.75deg, #FE8E5C -9.85%, #FCBE37 38.04%, #66CC66 78.46%);
+  padding: 20px;
+  margin: 2%;
+  border-radius: 30px;
+  box-shadow: no-shadow;
+}
+
+.video:hover {
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+#videos {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#siteName {
+  font-size: 64px;
+  margin-bottom: 3%;
+}
+
+.logo {
+  float: right;
+  margin-top: 3%;
+  margin-right: 10%;
+}
+
+#siteWelcome {
+  margin-left: 15%;
+  max-width: 55%;
+  margin-bottom: 5%;
+  font-size: 18px;
+}
+
+#backgroundHeading {
+  margin-left: 15%;
+  font-size: 30px;
+}
+
+#background {
+  max-width: 40%;
+  margin-left: 15%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+}
+
+#madeWithLove {
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+#quiz {
+  border-radius: 100px;
+  background-image: linear-gradient(126.75deg, #FE8E5C -9.85%, #FCBE37 38.04%, #66CC66 78.46%);
+  color: black;
+  margin-left: 48%;
+  margin-right: 70%;
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 3%;
+}
+
+#quiz:hover {
+  backgrouns
+}
+/* STYLE BUTTONS */
