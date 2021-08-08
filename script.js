@@ -36,27 +36,16 @@ var q9a2 = document.getElementById("q9a2");
 var q10a1 = document.getElementById("q10a1");
 var q10a2 = document.getElementById("q10a2");
 
-if(q1a1){
   q1a1.addEventListener('click', answerTrue);
-}
 
-if(q1a2) {
   q1a2.addEventListener('click', answerFalse);
-}
 
-if(q2a1){
 q2a1.addEventListener('click', answerTrue);
-}
 
-if(q2a2){
 q2a2.addEventListener('click',answerFalse);
-}
 
-if(q3a1){
 q3a1.addEventListener('click', answerTrue);
-}
 
-if(q3a2){
 q3a2.addEventListener('click', answerFalse);
 }
 
@@ -120,10 +109,10 @@ if(restart){
 restart.addEventListener('click', restartQuiz);
 }
 
-function answerTrue () {
+function answerTrue() {
 answerTrue+=1;
 questionCount+=1;
- console.log("questionCount="+questionCount+"answerTrueScore="+answerTrueScore);
+ console.log("questionCount=" + questionCount + "answerTrueScore="+answerTrueScore);
  if (questionCount==10) {
     console.log("The quiz is done!!")
     updateResult () ;
