@@ -21,3 +21,5 @@ We’re just getting started! In the near future, we hope to add an educational 
 - JavaScript
 - Canva (Logo)
 - Figma (Prototype)
+
+### 🔍 [View Project on Devpost](https://devpost.com/software/pivot-from-palm)
