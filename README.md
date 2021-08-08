@@ -23,3 +23,5 @@ We’re just getting started! In the near future, we hope to add an educational 
 - Figma (Prototype)
 
 ### 🔍 [View Project on Devpost](https://devpost.com/software/pivot-from-palm)
+
+### 👩🏽‍🏫 [Check Out Our Slides](https://docs.google.com/presentation/d/1j9zKQpjNAMthu-xkRavxq0MX-CujYq_HOrFBJXfzkYY/edit?usp=sharing)
