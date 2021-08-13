@@ -15,12 +15,7 @@ As a team, we are proud of how much we accomplished in such little time. The obs
 We’re just getting started! In the near future, we hope to add an educational game to our website highlighting and teaching about Palm oil, fixing our javascript and making sure there’s more functionality to the quiz, and adding a blog feature.
 
 ### 🛠 Made With
-- Replit (IDE)
-- HTML
-- CSS
-- JavaScript
-- Canva (Logo)
-- Figma (Prototype)
+`Replit (IDE)` `HTML` `CSS` `JavaScript` `Canva (Logo)` `Figma (Prototype)`
 
 ## 🏆 Won Best Environmental Hack at Sego Lily Hacks!
 
