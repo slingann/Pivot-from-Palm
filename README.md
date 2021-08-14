@@ -12,7 +12,7 @@ A challenge we faced as a team was that most of us were beginner coders. We init
 As a team, we are proud of how much we accomplished in such little time. The obstacles and challenges we faced helped us grow as individuals and coders.
 
 ### 💭 The Future of Our Project
-We’re just getting started! In the near future, we hope to add an educational game to our website highlighting and teaching about Palm oil, fixing our javascript and making sure there’s more functionality to the quiz, and adding a blog feature.
+We’re just getting started! In the near future, we hope to add an educational game to our website highlighting and teaching about Palm oil, fixing our `JavaScript` and making sure there’s more functionality to the quiz, and adding a blog feature.
 
 ### 🛠 Made With
 `Replit (IDE)` `HTML` `CSS` `JavaScript` `Canva (Logo)` `Figma (Prototype)`
