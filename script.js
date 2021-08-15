@@ -52,7 +52,7 @@ if (q2a2) {
   q2a2.addEventListener('click', answerFalse);
 }
 
-if (q3q1) {
+if (q3a1) {
   q3a1.addEventListener('click', answerTrue);
 }
 
