@@ -17,7 +17,7 @@ We’re just getting started! In the near future, we hope to add an educational 
 ### 🛠 Made With
 `Replit (IDE)` `HTML` `CSS` `JavaScript` `Canva (Logo)` `Figma (Prototype)`
 
-## 🏆 Won Best Environmental Hack at Sego Lily Hacks!
+## 🏆 Won Best Environmental Hack at Sego Lily Hacks 2021!
 
 ### 🔍 [View Project on Devpost](https://devpost.com/software/pivot-from-palm)
 
